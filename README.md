@@ -14,6 +14,8 @@ If the number of people that each person interacts with in a ten day period exce
 
 Generated datasets are saved in localstorage, persisted across pageloads and route traversals and updated in real time.
 
+Whoever gets the most Covids gets to be president!
+
 ## Notable files
 
 ### App.js
